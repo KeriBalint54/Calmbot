@@ -1,1 +1,3 @@
-Egy pszichológus bot. A neve CalmBot. 
+Digitális eszközök használata.
+- gondolat térkép
+- 
